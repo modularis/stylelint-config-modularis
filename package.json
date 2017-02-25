@@ -6,7 +6,7 @@
     "stylelint-config"
   ],
   "main": "index.js",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "author": "Markus Oberlehner",
   "homepage": "https://github.com/modularis/stylelint-config-modularis",
   "license": "MIT",
@@ -17,11 +17,14 @@
   "bugs": {
     "url": "https://github.com/modularis/stylelint-config-modularis/issues"
   },
+  "dependencies": {
+    "stylelint-order": "^0.3.0"
+  },
   "devDependencies": {
-    "eslint": "^3.8.1",
-    "eslint-config-modularis": "^2.0.0",
-    "eslint-plugin-import": "^2.0.1",
-    "pre-git": "^3.10.0"
+    "eslint": "^3.16.1",
+    "eslint-config-modularis": "^4.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "pre-git": "^3.14.0"
   },
   "scripts": {
     "lint": "eslint ."
