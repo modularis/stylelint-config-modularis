@@ -1,5 +1,7 @@
-# stylelint-config-modularis
+# stylelint-config-modularis (DEPRECATED)
 modularis stylelint config
+
+**This package is deprecated. Use [@avalanche/stylelint-config](https://www.npmjs.com/package/@avalanche/stylelint-config) instead.**
 
 ## About
 ### Author
